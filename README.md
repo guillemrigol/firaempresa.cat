@@ -1,5 +1,7 @@
 # firaempresa.cat
 
+Aquesta és una actualització del document a data de 11/02/22 21:44
+
 Exemple d'us de GitHub com a sistema de control de versions de projectes compartits (VCS).
 
 Com clonar, compartir i versionar
