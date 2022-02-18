@@ -6,9 +6,9 @@
   </head>
 <header>
   <nav>
-    <h3>Registre</h3>
-    <h3>Inici de sesió</h3>
+    <div><h3>Registre</h3></div>
+    <div><h3>Inici de sesió</h3></div>
+    <div>Menu</div>
   </nav>
-  <div>Menu</div>
 </header>
   <body>
