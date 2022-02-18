@@ -5,6 +5,10 @@
     <title></title>
   </head>
 <header>
-  <title></title>
+  <nav>
+    <h3>Registre</h3>
+    <h3>Inici de sesió</h3>
+  </nav>
+  <div>Menu</div>
 </header>
   <body>
