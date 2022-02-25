@@ -11,14 +11,14 @@
     align-items:stretch;
   }
 
-  h1{
+  footer h1{
     display:flex;
     position:relative;
     justify-content:space-around;
     margin:2px;
   }
 
-  h2{
+  footer h2{
     display:flex;
     position:relative;
     justify-content:space-around;
