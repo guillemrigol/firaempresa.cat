@@ -1,6 +1,7 @@
   *{
     margin:0;
     padding:0;
+    font-family:"Lora";
   }
 
   nav{
@@ -48,10 +49,3 @@
     border:solid 2px black;
     padding:5px 10px 5px 10px;
   }
-
- div#registre:hover{
-   background-color: var(--gris)
- }
- div#inici:hover{
-   background-color: var(--gris)
- }
