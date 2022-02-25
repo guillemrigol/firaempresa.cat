@@ -11,6 +11,6 @@
       <div><h3>Registre</h3></div>
       <div><h3>Inici de sesió</h3></div>
       <div>Menu</div>
-      <img src="assets/svg/logo02.svg" alt>
+      <img class="logo" src="assets/svg/logo02.svg" alt>
     </nav>
   </header>
