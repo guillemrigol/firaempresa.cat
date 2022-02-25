@@ -9,7 +9,7 @@
   <header>
     <nav>
       <div id="registre"><h3>Registre</h3></div>
-      <div id="inici"><h3>Inici de sesió</h3></div>
+      <div id="inici"><h3>Inici de sessió</h3></div>
       <div>Menu</div>
       <img class="logo" src="assets/svg/logo02.svg" alt>
     </nav>
