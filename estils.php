@@ -3,7 +3,7 @@
   <h2>Headline4</h2>
   <h3>Headline3</h3>
   <h4>Headline2</h4>
-  <h5>headline1</h5>
+  <h5>Headline1</h5>
 
   <p>
     It is a long established fact that a reader will be distracted
