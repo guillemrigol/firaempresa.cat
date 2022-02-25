@@ -1,3 +1,7 @@
+@import url("header_style.css");
+@import url("estils_style.css");
+@import url("footer_style.css");
+
 :root{
   --blanc:#FFFFFF;
   --clar:#F4F6F7;
@@ -5,7 +9,3 @@
   --negre:#000000;
   --taronja:#EF8354;
 }
-
-@import "header_style.css";
-@import "estils_style.css";
-@import "footer_style.css";
