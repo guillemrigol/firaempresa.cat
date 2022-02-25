@@ -1,0 +1,13 @@
+  *{
+    margin:0;
+    padding:0;
+  }
+
+  nav{
+    display:block;
+    position:relative;
+    background-color:grey;
+    width:100%;
+    height:200px;
+    border-bottom:solid 3px black;
+  }

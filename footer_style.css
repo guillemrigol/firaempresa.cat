@@ -8,7 +8,11 @@
   footer{
     display:flex;
     position:absolute;
+    width:100%;
+    min-heigth:200px;
     align-items:stretch;
+    background-color:var(--taronja);
+    color:var(--clar);
   }
 
   footer h1{
