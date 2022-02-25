@@ -6,7 +6,7 @@
   nav{
     display:block;
     position:relative;
-    background-color:var(--blanc);
+    background-color:var(--clar);
     width:100%;
     height:180px;
     border-bottom:solid 3px black;
@@ -20,4 +20,24 @@
     left:50%;
     width:400px;
     height:200px;
+  }
+
+  div#registre{
+    display:block;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    width:auto;
+    height:auto;
+    top:20%;
+    left:93%;
+  }
+
+  div#inici{
+    display:block;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    width:auto;
+    height:auto;
+    top:20%;
+    left:86%;
   }
