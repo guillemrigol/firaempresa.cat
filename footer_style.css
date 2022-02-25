@@ -7,7 +7,7 @@
 
   footer{
     display:flex;
-    position:absolute;
+    position:relative;
     width:100%;
     min-heigth:200px;
     align-items:stretch;
