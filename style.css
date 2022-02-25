@@ -6,6 +6,6 @@
   --taronja:#EF8354;
 }
 
-@import "header_style.css";
-@import "estils_style.css";
-@import "footer_style.css";
+@import url("header_style.css");
+@import url("estils_style.css");
+@import url("footer_style.css");
