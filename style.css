@@ -1,0 +1,10 @@
+:root{
+  blanc
+  gris
+  negre
+  taronja
+}
+
+@import "header_style.css";
+@import "estils_style.css";
+@import "footer_style.css";
