@@ -1,7 +1,7 @@
 @import url("header_style.css");
 @import url("estils_style.css");
 @import url("footer_style.css");
-
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 :root{
   --blanc:#FFFFFF;
   --clar:#F4F6F7;
