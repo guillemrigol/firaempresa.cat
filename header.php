@@ -8,8 +8,8 @@
 <body>
   <header>
     <nav>
-      <div id="registre"><h3>Registre</h3></div>
-      <div id="inici"><h3>Inici de sessió</h3></div>
+      <div id="registre">Registre</div>
+      <div id="inici">Inici de sessió</div>
       <div>Menu</div>
       <img class="logo" src="assets/svg/logo02.svg" alt>
     </nav>
