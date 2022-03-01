@@ -24,8 +24,6 @@
     height:200px;
   }
 
-  
-
   div#registre:hover{
     background-color: var(--gris)
   }
