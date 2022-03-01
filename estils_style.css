@@ -7,7 +7,7 @@ h1{
   font-family:"Lora", sans-serif;
   color: ;
   line-height: ;
-
+  margin:15px;
 }
 h2{
   font-size:2.6rem;
@@ -40,4 +40,9 @@ h5{
   color: ;
   line-height: ;
 
+}
+
+p{
+  margin:15px;
+  padding:10px;
 }
