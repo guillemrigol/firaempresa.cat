@@ -24,6 +24,13 @@
     height:200px;
   }
 
+  div.right{
+    display:flex;
+    position:relative;
+    align-items:center;
+    justify-content:flex-end;
+  }
+
   div#registre:hover{
     background-color: var(--gris)
   }
