@@ -16,12 +16,30 @@
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
   </ol>
-  <ul type="a">
+
+  <ol type="a">
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
+  </ol>
+
+  <ul>
+    <li>lorem ipsum</li>
+    <li>lorem
+    <ul type="circle">
+      <li>ipsum</li>
+      <li>ipsum</li>
+    </ul>
+    </li>
+    <li>lorem
+      <ul type="square">
+        <li>ipsum</li>
+        <li>ipsum</li>
+      </ul>
+    </li>
   </ul>
+  
   <div>
     <button type="buttom">lore ipsum</button>
   </div>
