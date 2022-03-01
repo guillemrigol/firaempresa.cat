@@ -10,13 +10,13 @@
     by the readable content of a page when looking at its layout.
   </p>
 
-  <ol>
+  <ol type="circle">
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
   </ol>
-  <ul>
+  <ul type="a">
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
