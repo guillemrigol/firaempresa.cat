@@ -13,7 +13,11 @@
       <div id="inici">Inici de sessió</div>
       </div>
       <img class="logo" src="assets/svg/logo02.svg" />
+<<<<<<< HEAD
       <img class="menu" src="asstes/svg/iconset/menu.svg" />
+=======
+      <img class="menu" src="assets/svg/iconset/menu.svg" />
+>>>>>>> a2f6ede9f2236fb4f474f7c4f250c046ba2f92cc
       <img class="closemenu" src="asstes/svg/iconset/x.svg" />
     </nav>
   </header>
