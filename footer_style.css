@@ -14,17 +14,3 @@
     background-color:var(--taronja);
     color:var(--clar);
   }
-
-  footer h1{
-    display:flex;
-    position:relative;
-    justify-content:space-around;
-    margin:2px;
-  }
-
-  footer h2{
-    display:flex;
-    position:relative;
-    justify-content:space-around;
-    margin:2px
-  }
