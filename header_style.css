@@ -29,7 +29,21 @@
     position:relative;
     align-items:center;
     justify-content:flex-end;
+    width:auto;
+    height:auto;
   }
+
+  div#inici{
+    cursor:pointer;
+    border:solid 2px black;
+  }
+
+  div#registre{
+    cursor:pointer;
+    border:solid 2px black;
+  }
+
+
 
   div#registre:hover{
     background-color: var(--gris)
