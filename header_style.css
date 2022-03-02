@@ -1,0 +1,39 @@
+  *{
+    margin:0;
+    padding:0;
+    font-family:"Lora";
+  }
+
+  nav{
+    display:block;
+    position:relative;
+    background-color:var(--clar);
+    width:100%;
+    height:180px;
+    border-bottom:solid 3px black;
+    box-shadow:0px 3px 5px grey;
+  }
+
+  .logo{
+    display:block;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    top:50%;
+    left:50%;
+    width:400px;
+    height:200px;
+  }
+
+  div.right{
+    display:flex;
+    position:relative;
+    align-items:center;
+    justify-content:flex-end;
+  }
+
+  div#registre:hover{
+    background-color: var(--gris)
+  }
+  div#inici:hover{
+    background-color: var(--gris)
+  }
