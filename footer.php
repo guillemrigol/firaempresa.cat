@@ -23,7 +23,10 @@
   <p><a href=" https://lasallemanlleu.cat/noticies/"/>NOTÍCIES</p>
   <p><a href="https://lasallemanlleu.cat/contacte/"/>CONTACTES</p>
 </div>
-<div class="extra">
+<div id="extra">
+  <p><a href="https://lasallemanlleu.cat/legalitat/"/>Avís legal</p>
+  <p><a href="https://lasallemanlleu.cat/privacitat/"/>Privadesa</p>
+  <p><a href="https://lasallemanlleu.cat/cookies/"/>Cookies</p>
 </div>
 </footer>
 </body>
