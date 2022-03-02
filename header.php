@@ -14,6 +14,6 @@
       </div>
       <img class="logo" src="assets/svg/logo02.svg" />
       <img class="menu" src="assets/svg/iconset/menu.svg" />
-      <img class="closemenu" src="asstes/svg/iconset/x.svg" />
+      <img class="closemenu" src="assets/svg/iconset/x.svg" />
     </nav>
   </header>
