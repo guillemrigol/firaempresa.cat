@@ -24,31 +24,13 @@
     height:200px;
   }
 
-  div#registre{
-    display:block;
-    position:absolute;
-    transform:translate(-50%, -50%);
-    width:58px;
-    height:22px;
-    top:30%;
-    left:93%;
-    cursor:pointer;
-    border:solid 2px black;
-    padding:5px 10px 5px 10px;
+  div.right{
+    display:flex;
+    position:relative;
+    align-items:center;
+    justify-content:flex-end;
   }
 
-  div#inici{
-    display:block;
-    position:absolute;
-    transform:translate(-50%, -50%);
-    width:94px;
-    height:22px;
-    top:30%;
-    left:85%;
-    cursor:pointer;
-    border:solid 2px black;
-    padding:5px 10px 5px 10px;
-  }
   div#registre:hover{
     background-color: var(--gris)
   }

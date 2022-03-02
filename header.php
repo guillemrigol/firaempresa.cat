@@ -8,9 +8,12 @@
 <body>
   <header>
     <nav>
+      <div class="right">
       <div id="registre">Registre</div>
       <div id="inici">Inici de sessió</div>
-      <div>Menu</div>
+      </div>
       <img class="logo" src="assets/svg/logo02.svg" alt>
+      <img class="menu" src="asstes/svg/iconset/menu.svg">
+      <img class="closemenu" src="asstes/svg/iconset/x.svg">
     </nav>
   </header>
