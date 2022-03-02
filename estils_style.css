@@ -4,40 +4,70 @@
 h1{
   font-size:3.4rem;
   font-weight:700;
-  font-family:"Lora", sans-serif;
-  color: ;
+  font-family:"Josefin Sans", sans-serif;
+  color:#000000 ;
   line-height: ;
-
+  margin:15px;
+  padding:5px;
 }
+
 h2{
   font-size:2.6rem;
   font-weight:700;
-  font-family: "Lora", sans-serif;
-  color: ;
+  font-family: "Josefin Sans", sans-serif;
+  color:#EF8354 ;
   line-height: ;
-
+  margin:15px;
+  padding:5px;
 }
 h3{
   font-size:2rem;
   font-weight:700;
-  font-family:"Lora", sans-serif ;
-  color: ;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#000000 ;
   line-height: ;
-
+  margin:15px;
+  padding:5px;
 }
 h4{
   font-size:1.6rem;
   font-weight:700;
-  font-family:"Lora", sans-serif ;
-  color: ;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#EF8354 ;
   line-height: ;
-
+  margin:15px;
+  padding:5px;
 }
 h5{
   font-size:1rem;
   font-weight:700;
-  font-family:"Lora", sans-serif ;
-  color: ;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#000000 ;
   line-height: ;
+  margin:15px;
+  padding:5px;
+}
 
+h6{
+  font-size:0.7rem;
+  font-weight:700;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#EF8354 ;
+  line-height: ;
+  margin:15px;
+  padding:5px;
+}
+
+p{
+  margin:15px;
+  padding:10px;
+  font-family:"Fredoka", sans-serif ;
+}
+
+ol{
+  margin-left:50px;
+}
+
+ul{
+  margin-left:50px;
 }
