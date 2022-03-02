@@ -9,6 +9,7 @@
     position:relative;
     width:100%;
     min-height:200px;
+    grid-column-gap:()
     background-color:var(--taronja);
     color:var(--clar);
   }
