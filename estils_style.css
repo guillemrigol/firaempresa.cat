@@ -62,6 +62,10 @@ p{
 ol{
   margin-left:50px;
 }
+li{
+  font-family:"Fredoka", sans-serif ;
+  font-size: 1rem;
+}
 
 li#ai{
   color:#EF8354;
@@ -127,7 +131,7 @@ button#tres{
 
 button#uno:hover{
   background-color: #EF8354;
-  color: grey;
+  color: #000000;
 }
 
 button#dos:hover{
