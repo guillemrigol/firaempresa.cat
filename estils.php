@@ -16,22 +16,21 @@
   </p>
 
   <ol type="I">
+    <li id="ai">Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
-    <li>Lorem Ipsum </li>
-    <li>Lorem Ipsum </li>
+    <li id="bi">Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
   </ol>
 
   <ol type="a">
+    <li id="ci">Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
-    <li>Lorem Ipsum </li>
-    <li>Lorem Ipsum </li>
-    <li>Lorem Ipsum </li>
+    <li id="di">Lorem Ipsum </li>
   </ol>
 
   <ul>
     <li>lorem ipsum</li>
-    <li>lorem
+    <li id="ei">lorem
     <ul type="circle">
       <li>ipsum</li>
       <li>ipsum</li>
