@@ -63,6 +63,30 @@ ol{
   margin-left:50px;
 }
 
+li#ai{
+  color:#EF8354;
+}
+
+li#bi{
+  color:#EF8354;
+}
+
+li#ci{
+  color:#EF8354;
+}
+
+li#di{
+  color:#EF8354;
+}
+
+li#ei{
+  color:#EF8354;
+}
+
+li#fi{
+  color:#EF8354;
+}
+
 ul{
   margin-left:50px;
 }
@@ -71,6 +95,7 @@ button{
   cursor: pointer;
   width: 150px;
   margin-top: 10px;
+  border-radius: 10px;
 }
 
 button#uno{
@@ -86,4 +111,5 @@ button#tres{
   background-color: #000000;
   color: white;
   height: 60px;
+  margin-bottom: 10px;
 }
