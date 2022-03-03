@@ -66,3 +66,12 @@ ol{
 ul{
   margin-left:50px;
 }
+
+button#dos{
+  background-color: #EF8354;
+}
+
+button#tres{
+  background-color: #000000;
+  color: white;
+}
