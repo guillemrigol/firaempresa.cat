@@ -7,8 +7,34 @@
   footer{
     display:flex;
     position:relative;
+    justify-content: space-evenly;
+    align-items: center;
     width:100%;
     min-height:200px;
     background-color:var(--taronja);
     color:var(--clar);
   }
+
+   footer div#info{
+     display:flex;
+     position:relative;
+     height:150px;
+     flex-direction:column;
+   }
+
+   footer div#centre{
+     display:block;
+     position:relative;
+     height:150px;
+   }
+
+    footer div#links a{
+      color:#FDFCFF;
+      text-decoration:none;
+    }
+
+   footer div#links{
+     display:flex;
+     position:relative;
+     flex-direction:column;
+   }
