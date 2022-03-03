@@ -8,16 +8,19 @@
 
 
   <p>
-  <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i>. <u>Morbi vel fermentum magna</u>. <b>Maecenas egestas erat at est blandit rutrum</b>. <b><u>Morbi dolor sem, fermentum vel ultricies nec, ullamcorper pharetra neque</u></b>. Nunc molestie mattis quam, et rhoncus turpis accumsan eu. Cras accumsan dignissim ante id iaculis. Phasellus id placerat quam, nec efficitur odio. Aenean placerat viverra ipsum, vitae placerat ligula bibendum ut. Vivamus cursus volutpat massa at elementum. Praesent ipsum ipsum, tincidunt vitae hendrerit in, suscipit quis sem. Praesent vehicula vestibulum nulla, et interdum ex fringilla et. Proin eget arcu faucibus, molestie dolor non, scelerisque felis. Proin vitae sodales tellus. Cras sed justo congue, efficitur massa laoreet, egestas metus. Vivamus ultrices diam tempus consectetur interdum. Donec eu ultrices sem.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tellus diam, posuere eu nisl non, finibus fringilla velit. Nulla facilisi. Sed a quam eu risus fringilla ornare eget at eros. Aliquam eget aliquam nulla. Donec eu finibus nisi. Morbi scelerisque erat quis mi congue, quis rutrum sapien volutpat. Pellentesque egestas convallis purus, eget posuere orci mattis sodales. Aliquam porta malesuada tempor. Suspendisse a elit nisl. Aliquam laoreet lacus nec tortor tincidunt, vel congue lacus posuere. Sed et massa eu risus rhoncus auctor vitae a urna. Maecenas eget lacus purus.
   </p>
 
-  <ol type="I">
+  <p>
+    Cras porttitor enim sit amet nisl sagittis, eget molestie turpis dignissim. Praesent nec massa porttitor, posuere mi eu, commodo orci. Vivamus imperdiet mauris ut venenatis tincidunt. Suspendisse id pretium lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean vitae molestie est. Aliquam lectus felis, faucibus nec porta ac, ullamcorper ac dolor. Quisque eu urna volutpat, vehicula sem hendrerit, semper felis. Proin orci risus, elementum ut placerat nec, porta at enim. Aliquam at dictum elit.
+  </p>
+
+  <ol type="circle">
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
   </ol>
-
 
   <ol type="a">
     <li>Lorem Ipsum </li>
