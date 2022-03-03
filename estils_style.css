@@ -127,7 +127,7 @@ button#tres{
 
 button#uno:hover{
   background-color: #EF8354;
-  color: grey;
+  color: #000000;
 }
 
 button#dos:hover{
