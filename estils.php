@@ -45,15 +45,15 @@
   </ul>
 
   <div>
-    <button id="uno" type="buttom">lore ipsum</button>
+    <button id="uno" type="buttom"><h6>lore ipsum</h6></button>
   </div>
 
   <div>
-    <button id="dos" type="buttom">lore ipsum</button>
+    <button id="dos" type="buttom"><h5>lore ipsum</h5></button>
   </div>
 
   <div>
-    <button id="tres" type="buttom">lore ipsum</button>
+    <button id="tres" type="buttom"><h6>lore ipsum</h6></button>
   </div>
 
 </section>

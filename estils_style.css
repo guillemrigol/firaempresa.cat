@@ -91,11 +91,25 @@ ul{
   margin-left:50px;
 }
 
+button{
+  cursor: pointer;
+  width: 150px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+button#uno{
+  height: 40px;
+}
+
 button#dos{
   background-color: #EF8354;
+  height: 50px;
 }
 
 button#tres{
   background-color: #000000;
   color: white;
+  height: 60px;
+  margin-bottom: 10px;
 }
