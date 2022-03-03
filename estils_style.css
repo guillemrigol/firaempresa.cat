@@ -100,20 +100,46 @@ button{
   width: 150px;
   margin-top: 10px;
   border-radius: 10px;
+  font-family:"Josefin Sans", sans-serif ;
 }
 
 button#uno{
   height: 40px;
+  font-size:1.6rem;
+  font-weight:700;
+  color:#EF8354 ;
+  line-height:2.58rem;
 }
 
 button#dos{
   background-color: #EF8354;
   height: 50px;
+  font-size:1.6rem;
+  font-weight:700;
+  line-height:2.58rem;
 }
 
 button#tres{
   background-color: #000000;
-  color: white;
+  color: #EF8354;
   height: 60px;
   margin-bottom: 10px;
+  font-size:1.6rem;
+  font-weight:700;
+  line-height:2.58rem;
+}
+
+button#uno:hover{
+  background-color: #EF8354;
+  color: #000000;
+}
+
+button#dos:hover{
+  background-color: #000000;
+  color: #EF8354;
+}
+
+button#tres:hover{
+  background-color:  #EF8354;
+  color: #000000;
 }
