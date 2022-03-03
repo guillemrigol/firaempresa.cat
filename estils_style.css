@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Josefin+Sans:wght@200&family=Lora&family=Roboto+Serif:wght@100&family=Rowdies:wght@300;700&display=swap');
 
+section{
+  display:block;
+  position:relative;
+  width:80%;
+  margin:0 auto;
+}
 
 h1{
   font-size:3.4rem;
   font-weight:700;
   font-family:"Josefin Sans", sans-serif;
   color:#000000 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
+  line-height:5.5rem;
 }
 
 h2{
@@ -16,52 +20,43 @@ h2{
   font-weight:700;
   font-family: "Josefin Sans", sans-serif;
   color:#EF8354 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
+  line-height:4.2rem;
 }
 h3{
   font-size:2rem;
   font-weight:700;
   font-family:"Josefin Sans", sans-serif ;
   color:#000000 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
+  line-height:3.24rem;
 }
 h4{
+  font-size:1.8rem;
+  font-weight:700;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#EF8354 ;
+  line-height:2.92rem;
+}
+h5{
   font-size:1.6rem;
   font-weight:700;
   font-family:"Josefin Sans", sans-serif ;
-  color:#EF8354 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
-}
-h5{
-  font-size:1rem;
-  font-weight:700;
-  font-family:"Josefin Sans", sans-serif ;
   color:#000000 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
+  line-height:2.58rem;
 }
 
 h6{
-  font-size:0.7rem;
+  font-size:1.4rem;
   font-weight:700;
   font-family:"Josefin Sans", sans-serif ;
   color:#EF8354 ;
-  line-height: ;
-  margin:15px;
-  padding:5px;
+  line-height:2.26rem;
 }
 
 p{
-  margin:15px;
-  padding:10px;
+  margin:1.1618rem 0;
   font-family:"Fredoka", sans-serif ;
+  font-size:1rem;
+  line-height: 1.618;
 }
 
 ol{
