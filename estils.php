@@ -45,16 +45,16 @@
     </li>
   </ul>
 
-  <div id="1">
-    <button type="buttom">lore ipsum</button>
+  <div>
+    <button id="uno" type="buttom">lore ipsum</button>
   </div>
 
-  <div id="2">
-    <button type="buttom">lore ipsum</button>
+  <div>
+    <button id="dos" type="buttom">lore ipsum</button>
   </div>
 
-  <div id="3">
-    <button type="buttom">lore ipsum</button>
+  <div>
+    <button id="tres" type="buttom">lore ipsum</button>
   </div>
 
 </section>
