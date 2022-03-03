@@ -15,7 +15,7 @@
     Cras porttitor enim sit amet nisl sagittis, eget molestie turpis dignissim. Praesent nec massa porttitor, posuere mi eu, commodo orci. Vivamus imperdiet mauris ut venenatis tincidunt. Suspendisse id pretium lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean vitae molestie est. Aliquam lectus felis, faucibus nec porta ac, ullamcorper ac dolor. Quisque eu urna volutpat, vehicula sem hendrerit, semper felis. Proin orci risus, elementum ut placerat nec, porta at enim. Aliquam at dictum elit.
   </p>
 
-  <ol type="circle">
+  <ol type="I">
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
     <li>Lorem Ipsum </li>
@@ -45,7 +45,15 @@
     </li>
   </ul>
 
-  <div>
+  <div id="1">
+    <button type="buttom">lore ipsum</button>
+  </div>
+
+  <div id="2">
+    <button type="buttom">lore ipsum</button>
+  </div>
+
+  <div id="3">
     <button type="buttom">lore ipsum</button>
   </div>
 
