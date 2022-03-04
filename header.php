@@ -15,5 +15,6 @@
       </div>
       <img class="logo" src="assets/svg/logo02.svg" />
       <input type="button" value="" class="menu" />
+      <div id="barra-menu"></div>
     </nav>
   </header>
