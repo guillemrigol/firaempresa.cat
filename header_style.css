@@ -35,15 +35,16 @@
 
   div#inici{
     cursor:pointer;
-    border:solid 2px black;
     margin:30px 10px 0px 0px;
-    background-color: #EF8354;
+    border-radius: 5px;
+    background-color: #DCDCDC;
   }
 
   div#registre{
     cursor:pointer;
-    border:solid 2px black;
     margin:30px 10px 0px 0px;
+    border-radius: 5px;
+    background-color: #F3A583;
   }
 
   img.persona{
@@ -71,8 +72,8 @@
 
 
   div#registre:hover{
-    background-color: var(--gris)
+    background-color: #F27E4B;
   }
   div#inici:hover{
-    background-color: var(--gris)
+    background-color: #CACACA;
   }
