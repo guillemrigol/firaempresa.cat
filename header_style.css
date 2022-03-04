@@ -74,7 +74,7 @@
 
   input.menu:focus{
     background-image:url('assets/svg/iconset/x.svg');
-    z-index: 1;
+    z-index: 2;
   }
 
   div#registre:hover{
@@ -98,4 +98,5 @@
   input.menu:focus ~ div#barra-menu{
     width: 500px;
     height: 100vh;
+    z-index: 1;
   }
