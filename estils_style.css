@@ -174,3 +174,24 @@ input#seis{
   outline:none;
   margin-bottom: 20px;
 }
+
+/* width */
+::-webkit-scrollbar {
+ width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+ background:transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #7b2cbf;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#9d4edd;
+}
