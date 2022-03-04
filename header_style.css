@@ -1,8 +1,3 @@
-  *{
-    margin:0;
-    padding:0;
-    font-family:"Lora";
-  }
 
   nav{
     display:block;
@@ -35,6 +30,8 @@
 
   div#inici{
     cursor:pointer;
+    font-family:"Josefin Sans", sans-serif ;
+    font-weight:bolder;
     margin:50px 7px 0px 0px;
     border-radius: 5px;
     padding: 6px 11px 6px 11px;
@@ -43,6 +40,8 @@
 
   div#registre{
     cursor:pointer;
+    font-family:"Josefin Sans", sans-serif ;
+    font-weight:bolder;
     margin:50px 15px 0px 0px;
     border-radius: 5px;
     padding: 6px 11px 6px 11px;
