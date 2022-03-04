@@ -15,6 +15,11 @@
     <i class="fa fa-linkedin"></i>
     <i class="fa fa-youtube"></i>
   </div>
+  <div id="extra">
+    <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
+    <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
+    <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+  </div>
   <div id="links">
     <a href="https://lasallemanlleu.cat/oferta-formativa/">OFERTA FORMATIVA</a>
     <a href=" https://lasallemanlleu.cat/lescola/">L’ESCOLA</a>
@@ -24,11 +29,6 @@
     <a href="https://lasallemanlleu.cat/serveis/">SERVEIS</a>
     <a href=" https://lasallemanlleu.cat/noticies/">NOTÍCIES</a>
     <a href="https://lasallemanlleu.cat/contacte/">CONTACTES</a>
-  </div>
-  <div id="extra">
-    <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
-    <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
-    <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
   </div>
 </footer>
 </body>
