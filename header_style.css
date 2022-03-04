@@ -1,8 +1,3 @@
-  *{
-    margin:0;
-    padding:0;
-    font-family:"Lora";
-  }
 
   nav{
     display:block;
@@ -35,6 +30,8 @@
 
   div#inici{
     cursor:pointer;
+    font-family:"Josefin Sans", sans-serif ;
+    font-weight:bolder;
     margin:50px 7px 0px 0px;
     border-radius: 5px;
     padding: 6px 11px 6px 11px;
@@ -43,6 +40,8 @@
 
   div#registre{
     cursor:pointer;
+    font-family:"Josefin Sans", sans-serif ;
+    font-weight:bolder;
     margin:50px 15px 0px 0px;
     border-radius: 5px;
     padding: 6px 11px 6px 11px;
@@ -70,10 +69,12 @@
     background-repeat:none;
     cursor:pointer;
     margin:-20px 20px 0px 40px;
+    transition: 400ms ease-in-out;
   }
 
   input.menu:focus{
     background-image:url('assets/svg/iconset/x.svg');
+    z-index: 2;
   }
 
   div#registre:hover{
@@ -86,15 +87,16 @@
   div#barra-menu{
     display: absolute;
     position: relative;
-    width: 300px;
-    height: 300px;
-    top: -25%;
-    left: -20%;
-    background-color: #000;
-    transition: 200ms ease-in-out;
+    width: 500px;
+    height: 0vh;
+    top:-115px;
+    left:0px;
+    background-color: var(--gris);
+    transition: 400ms ease-in-out;
   }
 
   input.menu:focus ~ div#barra-menu{
-    top: -25%;
-    left: 2%;
+    width: 500px;
+    height: 100vh;
+    z-index: 1;
   }
