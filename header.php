@@ -11,10 +11,10 @@
       <div class="right">
       <div id="registre">Registre</div>
       <div id="inici">Inici de sessió</div>
+      <img class="persona" src="assets/svg/iconset/IconPersona.svg" />
       </div>
       <img class="logo" src="assets/svg/logo02.svg" />
       <img class="menu" src="assets/svg/iconset/menu.svg" />
       <img class="closemenu" src="assets/svg/iconset/x.svg" />
-      <img class="persona" src="assets/svg/iconset/IconPersona.svg" />
     </nav>
   </header>
