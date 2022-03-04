@@ -56,20 +56,23 @@
     cursor: pointer;
   }
 
-  img.menu{
-    display:flex;
+  input.menu{
+    display:block;
     position:relative;
     width:50px;
     height:50px;
+    background-color:transparent;
+    border:none;
+    background-image:url('assets/svg/iconset/menu.svg');
+    background-size:cover;
+    background-repeat:none;
+    cursor:pointer;
+    margin:-20px 20px 0px 40px;
   }
 
-  img.closemenu{
-    display:flex;
-    position:relative;
-    width:50px;
-    height:50px;
+  input.menu:focus{
+    background-image:url('assets/svg/iconset/x.svg');
   }
-
 
   div#registre:hover{
     background-color: #F27E4B;
