@@ -15,9 +15,9 @@
     <i class="fa fa-linkedin"></i>
     <i class="fa fa-youtube"></i>
     <div id="extra">
-      <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
-      <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
-      <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+      <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>&nbsp; &nbsp;
+      <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>&nbsp; &nbsp;
+      <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>&nbsp; &nbsp;
     </div>
   </div>
   <div id="links">
