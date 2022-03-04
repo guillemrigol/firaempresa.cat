@@ -30,6 +30,11 @@
     <a href=" https://lasallemanlleu.cat/noticies/">NOTÍCIES</a>
     <a href="https://lasallemanlleu.cat/contacte/">CONTACTES</a>
   </div>
+  <svg>
+  <path d="M50 80 L50 23" stroke="pink" stroke-width="1"/>
+  <path d="M50 23 L30 45" stroke="pink" stroke-width="1"/>
+  <path d="M50 23 L70 45" stroke="pink" stroke-width="1"/>
+  </svg>
 </footer>
 </body>
 </html>
