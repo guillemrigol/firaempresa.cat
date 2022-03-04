@@ -35,15 +35,17 @@
 
   div#inici{
     cursor:pointer;
-    margin:30px 10px 0px 0px;
+    margin:50px 7px 0px 0px;
     border-radius: 5px;
+    padding: 6px 11px 6px 11px;
     background-color: #DCDCDC;
   }
 
   div#registre{
     cursor:pointer;
-    margin:30px 10px 0px 0px;
+    margin:50px 15px 0px 0px;
     border-radius: 5px;
+    padding: 6px 11px 6px 11px;
     background-color: #F3A583;
   }
 
@@ -52,7 +54,7 @@
     position:relative;
     width:30px;
     height:30px;
-    margin:25px 20px 0px 0px;
+    margin:49px 40px 0px 0px;
     cursor: pointer;
   }
 
