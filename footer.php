@@ -6,7 +6,7 @@
     <span>T: 93 850 60 64</span>
   </div>
   <div id="centre">
-    <span><img src="assets/svg/logosalle.svg" alt="lasalle" /></span>
+    <span><img src="assets/svg/logosalle_w.svg" alt="lasalle" /></span>
     <span></span>
     <span><i class="fa fa-facebook" onclick="window.open('https://www.facebook.com/lasallemanlleu.cat/', '_blank');"></i></span>
     <span><i class="fa fa-instagram" onclick="window.open('https://www.instagram.com/lasallemanlleu/','_blank');"></i></span>
