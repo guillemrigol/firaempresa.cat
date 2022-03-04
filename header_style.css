@@ -18,7 +18,7 @@
     display:block;
     position:absolute;
     transform:translate(-50%, -50%);
-    top:50%;
+    top:40%;
     left:50%;
     width:400px;
     height:200px;
@@ -81,4 +81,20 @@
   }
   div#inici:hover{
     background-color: #CACACA;
+  }
+
+  div#barra-menu{
+    display: absolute;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    top: -25%;
+    left: -20%;
+    background-color: #000;
+    transition: 200ms ease-in-out;
+  }
+
+  input.menu:focus ~ div#barra-menu{
+    top: -25%;
+    left: 2%;
   }
