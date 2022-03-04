@@ -14,11 +14,11 @@
     <i class="fa fa-flickr"></i>
     <i class="fa fa-linkedin"></i>
     <i class="fa fa-youtube"></i>
-  </div>
-  <div id="extra">
-    <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
-    <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
-    <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+    <div id="extra">
+      <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
+      <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
+      <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+    </div>
   </div>
   <div id="links">
     <a href="https://lasallemanlleu.cat/oferta-formativa/">OFERTA FORMATIVA</a>
