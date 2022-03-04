@@ -37,6 +37,10 @@
      height:150px;
    }
 
+   hr{
+     background-color:white;
+   }
+
    footer div#links{
      display:flex;
      position:relative;
