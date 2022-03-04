@@ -1,9 +1,9 @@
 <footer>
   <div id="info">
-    <p>ENRIC DELARIS 68</p>
-    <p>08560 MANLLEU</p>
-    <p>BARCELONA</p>
-    <p>T: 93 850 60 64</p>
+    <span>ENRIC DELARIS 68</span>
+    <span>08560 MANLLEU</span>
+    <span>BARCELONA</span>
+    <span>T: 93 850 60 64</span>
   </div>
   <div id="centre">
     <img src="assets/svg/logosalle.svg" alt="lasalle">
@@ -15,20 +15,20 @@
     <i class="fa fa-linkedin"></i>
     <i class="fa fa-youtube"></i>
   </div>
-  <div id="links">
-    <p><a href="https://lasallemanlleu.cat/oferta-formativa/"/>OFERTA FORMATIVA</p>
-    <p><a href=" https://lasallemanlleu.cat/lescola/"/>L’ESCOLA</p>
-    <p><a href="https://lasallemanlleu.cat/alumnes/"/>ALUMNES</p>
-    <p><a href=" https://lasallemanlleu.cat/ampa/"/>AMPA</p>
-    <p><a href=" https://lasallemanlleu.cat/empreses/"/>EMPRESES</p>
-    <p><a href="https://lasallemanlleu.cat/serveis/"/>SERVEIS</p>
-    <p><a href=" https://lasallemanlleu.cat/noticies/"/>NOTÍCIES</p>
-    <p><a href="https://lasallemanlleu.cat/contacte/"/>CONTACTES</p>
-  </div>
   <div id="extra">
-    <p><a href="https://lasallemanlleu.cat/legalitat/"/>Avís legal</p>
-    <p><a href="https://lasallemanlleu.cat/privacitat/"/>Privadesa</p>
-    <p><a href="https://lasallemanlleu.cat/cookies/"/>Cookies</p>
+    <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
+    <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
+    <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+  </div>
+  <div id="links">
+    <a href="https://lasallemanlleu.cat/oferta-formativa/">OFERTA FORMATIVA</a>
+    <a href=" https://lasallemanlleu.cat/lescola/">L’ESCOLA</a>
+    <a href="https://lasallemanlleu.cat/alumnes/">ALUMNES</a>
+    <a href=" https://lasallemanlleu.cat/ampa/">AMPA</a>
+    <a href=" https://lasallemanlleu.cat/empreses/">EMPRESES</a>
+    <a href="https://lasallemanlleu.cat/serveis/">SERVEIS</a>
+    <a href=" https://lasallemanlleu.cat/noticies/">NOTÍCIES</a>
+    <a href="https://lasallemanlleu.cat/contacte/">CONTACTES</a>
   </div>
 </footer>
 </body>
