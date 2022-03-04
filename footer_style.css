@@ -123,4 +123,6 @@
       height:50px;
       left:calc(100vw - 90px);
       top:calc(100% - 70px);
+      cursor:pointer;
+      outline:none;
     }

@@ -28,7 +28,7 @@
     <a href=" https://lasallemanlleu.cat/noticies/">NOTÍCIES</a>
     <a href="https://lasallemanlleu.cat/contacte/">CONTACTES</a>
   </div>
-  <svg id="flecha" viewbox="0 0 100 100">
+  <svg id="flecha" viewbox="0 0 100 100" onclick="window.open('#capçalera', '_self');">
   <path d="M50 70 L50 23" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
   <path d="M50 23 L30 45" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
   <path d="M50 23 L70 45" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
