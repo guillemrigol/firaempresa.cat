@@ -10,12 +10,12 @@
     -ms-user-select:none;
     user-select:none;
   }
-  
+
   footer{
     display:flex;
     position:relative;
     justify-content: space-evenly;
-    align-items: center;
+    align-items:center;
     width:100%;
     min-height:200px;
     background-color:var(--taronja);
@@ -27,6 +27,8 @@
      position:relative;
      height:150px;
      flex-direction:column;
+     justify-content:center;
+     align-items:flex-start;
    }
 
    footer div#centre{
@@ -39,6 +41,8 @@
      display:flex;
      position:relative;
      flex-direction:column;
+     justify-content:center;
+     align-items:flex-start;
    }
 
     footer div#links a{
