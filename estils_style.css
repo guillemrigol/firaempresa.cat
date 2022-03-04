@@ -101,6 +101,8 @@ button{
   margin-top: 10px;
   border-radius: 10px;
   font-family:"Josefin Sans", sans-serif ;
+  box-shadow:-3px 3px 3px #848484;
+  border: none;
 }
 
 button#uno{
