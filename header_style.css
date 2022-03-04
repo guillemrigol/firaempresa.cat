@@ -67,6 +67,7 @@
     background-size:cover;
     background-repeat:none;
     cursor:pointer;
+    margin:-20px 20px 0px 40px;
   }
 
   input.menu:focus{
