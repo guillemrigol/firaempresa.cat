@@ -55,6 +55,7 @@
      grid-column-start: 1;
      grid-column-end: 7;
      padding:25px 0;
+     cursor:pointer;
    }
 
    footer div#centre span:nth-child(2){
