@@ -70,10 +70,12 @@
     background-repeat:none;
     cursor:pointer;
     margin:-20px 20px 0px 40px;
+    transition: 400ms ease-in-out;
   }
 
   input.menu:focus{
     background-image:url('assets/svg/iconset/x.svg');
+    z-index: 1;
   }
 
   div#registre:hover{
@@ -90,7 +92,7 @@
     height: 0vh;
     top:-115px;
     left:0px;
-    background-color: #000;
+    background-color: var(--gris);
     transition: 400ms ease-in-out;
   }
 
