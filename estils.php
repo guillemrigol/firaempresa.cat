@@ -56,4 +56,9 @@
     <button id="tres" type="buttom">lore ipsum</button>
   </div>
 
+  <input type="checkbox" />
+  <input type="text" />
+  <input type="email" />
+  <input type="radio" />
+
 </section>

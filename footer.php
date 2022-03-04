@@ -8,17 +8,17 @@
   <div id="centre">
     <img src="assets/svg/logosalle.svg" alt="lasalle">
     <hr/>
-    <i class="fa fa-facebook"></i>
-    <i class="fa fa-instagram"></i>
-    <i class="fa fa-twitter"></i>
-    <i class="fa fa-flickr"></i>
-    <i class="fa fa-linkedin"></i>
-    <i class="fa fa-youtube"></i>
-  </div>
-  <div id="extra">
-    <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>
-    <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>
-    <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>
+    <i class="fa fa-facebook" onclick="window.open('https://www.facebook.com/lasallemanlleu.cat/', '_blank');"><i/>
+    <i class="fa fa-instagram" onclick="window.open('https://www.instagram.com/lasallemanlleu/','_blank');"></i>
+    <i class="fa fa-twitter" onclick="window.open('https://twitter.com/lasallemanlleu','_blank');"></i>
+    <i class="fa fa-flickr"onclick="window.open('https://www.flickr.com/photos/lasallemanlleu/albums','_blank');"></i>
+    <i class="fa fa-linkedin"onclick="window.open('https://www.linkedin.com/company/lasallemanlleu','_blank');"></i>
+    <i class="fa fa-youtube"onclick="window.open('https://www.youtube.com/channel/UC_YT1VmIypAUGsx13Ed9pAg','_blank');"></i>
+    <div id="extra">
+      <a href="https://lasallemanlleu.cat/legalitat/">Avís legal</a>&nbsp; &nbsp;
+      <a href="https://lasallemanlleu.cat/privacitat/">Privadesa</a>&nbsp; &nbsp;
+      <a href="https://lasallemanlleu.cat/cookies/">Cookies</a>&nbsp; &nbsp;
+    </div>
   </div>
   <div id="links">
     <a href="https://lasallemanlleu.cat/oferta-formativa/">OFERTA FORMATIVA</a>
