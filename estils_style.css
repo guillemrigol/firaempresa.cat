@@ -179,6 +179,21 @@ input#seis{
   margin-bottom: 20px;
 }
 
+input#siete{
+  font-size: 1.4rem;
+  height: 40px;
+  width: 300px;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#EF8354;
+  background-color: white;
+  border-bottom-color: black;
+  border-top: none;
+  border-left: none;
+  border-right:  none;
+  outline:none;
+  margin-bottom: 20px;
+}
+
 .container {
   display: block;
   position: relative;
