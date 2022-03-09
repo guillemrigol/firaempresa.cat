@@ -1,3 +1,4 @@
+<?php include('header.php') ?>
 <section>
   <h1>Headline1</h1>
   <h2>Headline2</h2>
@@ -70,3 +71,4 @@
   <span class="checkmark"></span>
 </label>
 </section>
+<?php include('footer.php') ?>
