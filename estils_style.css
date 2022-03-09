@@ -145,6 +145,10 @@ button#tres:hover{
   background-color:  #EF8354;
   color: #000000;
 }
+input{
+  display: block;
+  position: relative;
+}
 input#cinco, input#cinco:focus{
   font-size: 1.4rem;
   height: 40px;
