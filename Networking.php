@@ -9,7 +9,7 @@
   Les empreses durant el  networking tindran a la seva disposició una taula per fer el networking.
   </p>
 
-  <h>Funcionament del networking</h>
+  <h1>Funcionament del networking</h1>
 
   <p><b>Abrics i motxilles en general l'únic lloc on podreu deixar coses és a sota la pròpia taula de networking.</b> Per tant dueu lo just i imprescindible.
 
