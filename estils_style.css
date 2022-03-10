@@ -179,6 +179,27 @@ input#seis{
   margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
+/* width */
+::-webkit-scrollbar {
+ width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+ background:transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #7b2cbf;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#9d4edd;
+=======
 input#siete{
   font-size: 1.4rem;
   height: 40px;
@@ -251,6 +272,7 @@ input#siete{
 	height: 8px;
 	border-radius: 50%;
 	background: white;
+>>>>>>> aa1e0e85c4e5b8da1e54385cf61e836d67dc5537
 }
 
 .ocho {
