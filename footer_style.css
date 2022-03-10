@@ -20,6 +20,9 @@
     min-height:200px;
     background-color:var(--taronja);
     color:var(--clar);
+    font-family:sans-serif;
+    font-size:1rem;
+    line-height:1.618rem;
   }
 
    footer div#info{
@@ -47,9 +50,11 @@
       padding:30px 0 0 0;
     }
 
-        footer div#centre span i{
-          font-size:1.25rem;
-        }
+    footer div#centre span i{
+      font-size:1.25rem;
+      cursor:pointer;
+      color:black;
+    }
 
    footer div#centre span:nth-child(1){
      grid-column-start: 1;
@@ -63,16 +68,17 @@
      grid-column-end: 7;
      background-color:#fff;
      padding:0;
+     background-color:black;
    }
 
-      footer div#centre span:nth-child(2)::before{
-        content:"";
-        display:block;
-        position:absolute;
-        width:50px;
-        height:10px;
-        background-color:#fff;
-      }
+    footer div#centre span:nth-child(2)::before{
+      content:"";
+      display:block;
+      position:absolute;
+      width:50px;
+      height:10px;
+      background-color:black;
+    }
 
 
    footer div#centre span:nth-child(9){
@@ -96,10 +102,6 @@
      padding: 0 0 20px 0;
    }
 
-   hr{
-     background-color:white;
-   }
-
    footer div#links{
      display:flex;
      position:relative;
@@ -113,8 +115,9 @@
       text-decoration:none;
     }
 
-    footer div#centre span a{
-      color:#FDFCFF;
+    footer div#centre span a,
+    footer div#centre span a:visited{
+        color:black;
     }
 
     footer svg#flecha{
