@@ -60,6 +60,7 @@
   <input id="cuatro" type="checkbox"  />
   <input id="cinco" type="text" />
   <input id="seis" type="email" />
+  <input id="siete" type="password"/>
 
   <label class="container">
   <input type="radio" checked="checked" name="radio">
@@ -68,6 +69,10 @@
 <label class="container">.
   <input type="radio" name="radio">
   <span class="checkmark"></span>
+</label>
+<label class="ocho ">One
+  <input type="checkbox" checked="checked">
+  <span class="nueve"></span>
 </label>
 </section>
 <?php include('footer.php') ?>
