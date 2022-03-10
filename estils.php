@@ -70,5 +70,9 @@
   <input type="radio" name="radio">
   <span class="checkmark"></span>
 </label>
+<label class="ocho ">One
+  <input type="checkbox" checked="checked">
+  <span class="nueve"></span>
+</label>
 </section>
 <?php include('footer.php') ?>

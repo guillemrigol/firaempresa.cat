@@ -179,6 +179,27 @@ input#seis{
   margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
+/* width */
+::-webkit-scrollbar {
+ width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+ background:transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #7b2cbf;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#9d4edd;
+=======
 input#siete{
   font-size: 1.4rem;
   height: 40px;
@@ -251,4 +272,65 @@ input#siete{
 	height: 8px;
 	border-radius: 50%;
 	background: white;
+>>>>>>> aa1e0e85c4e5b8da1e54385cf61e836d67dc5537
+}
+
+.ocho {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.ocho input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.nueve {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+.ocho:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.ocho input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+.nueve:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.ocho input:checked ~ .nueve:after {
+  display: block;
+}
+
+.ocho .nueve:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
