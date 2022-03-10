@@ -1,6 +1,6 @@
 <footer>
   <div id="info">
-    <span>ENRIC DELARIS 68</span>
+    <span>ENRIC DELARIS, 68</span>
     <span>08560 MANLLEU</span>
     <span>BARCELONA</span>
     <span>T: 93 850 60 64</span>
