@@ -179,6 +179,7 @@ input#seis{
   margin-bottom: 20px;
 }
 
+
 input#siete{
   font-size: 1.4rem;
   height: 40px;
@@ -251,4 +252,5 @@ input#siete{
 	height: 8px;
 	border-radius: 50%;
 	background: white;
+>>>>>>> aa1e0e85c4e5b8da1e54385cf61e836d67dc5537
 }

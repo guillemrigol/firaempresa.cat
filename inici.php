@@ -7,34 +7,60 @@
 
   <style media="screen">
 
-nav.carcasa{
-  display: flex;
-  position: relative;
+
+#logofira{
+  display:block;
+  position:absolute;
+  width:400px;
+  height:400px;
+  background-color: transparent;
+  transform:translate(-50%, -50%);
+  left:50vw;
+  top:50vh;
+  cursor:pointer;
+  transition: all 400ms ease;
 }
 
-div.logofira{
-  top: 50%;
-  left: 50%;
-  display: block;
-  position: absolute;
+#logolletres{
+  display:block;
+  position:absolute;
+  width:400px;
+  height:400px;
+  transform:translate(-50%, -50%);
+  left:54.5vw;
+  top:52vh;
+  transition: all 400ms ease;
 }
 
-div.logolletres{
-  top: 50%;
-  left: 50%;
-  background-color: black;
+.logosvg{
+  width:200px;
+  height:200px;
+}
+
+#buttonClicker{
+  display:block;
+  position:absolute;
+  width:400px;
+  height:400px;
+  background-color: transparent;
+  transform:translate(-50%, -50%);
+  left:50vw;
+  top:50vh;
+  cursor:pointer;
+  transition: all 400ms ease;
+  border: none;
 }
 
   </style>
   <body>
-    <nav id="carcasa">
-    <div>
+    <button id="buttonClicker">
+    </button>
+    <div id="logolletres">
       <img class="logolletres" src="assets/svg/logo02.svg" />
     </div>
-    <div>
-      <img class="logofira" src="assets/svg/iconset/Logo.svg" />
+    <div id="logofira">
+      <img class="logosvg" src="assets/svg/iconset/Logo.svg" />
   </div>
-</nav>
 <div id="espai">
 </div>
   </body>
