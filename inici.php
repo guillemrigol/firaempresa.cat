@@ -7,33 +7,14 @@
 
   <style media="screen">
 
-  .logofira{
-    display:block;
-    position: relative;
-    transform:translate(-20%, 20%);
-    top:50%;
-    left:40%;
-  }
-
-  .logolletres{
-    display:block;
-    position: relative;
-    transform:translate(50%, 70%);
-    top:50%;
-    left:40%;
-  }
-
-  .espai{
-    display:flex;
-    position: absolute;
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-  }
+nav.1{
+  display: flex;
+  position: relative;
+}
 
   </style>
   <body>
-    <nav>
+    <nav id="1">
     <div>
       <img class="logolletres" src="assets/svg/logo02.svg" />
       <img class="logofira" src="assets/svg/iconset/Logo.svg" />
