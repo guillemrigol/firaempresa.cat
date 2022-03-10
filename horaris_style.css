@@ -33,6 +33,7 @@ section{
   grid-column-start:1;
   grid-column-end:8;
 }
+
 .calendari div:nth-child(2),
 .calendari div:nth-child(3),
 .calendari div:nth-child(4),
@@ -43,4 +44,8 @@ section{
   display:flex;
   position:relative;
   background-color: var(--taronja);
+}
+
+.calendari div:nth-child(9){
+  background-color:transparent;
 }
