@@ -58,13 +58,13 @@ body{
 
   </style>
   <body>
-    <button id="buttonClicker">
+    <a href="http://localhost/projects/firaempresa.cat/estils.php"><button type="button" id="buttonClicker">
     <div id="logolletres">
       <img class="lletres" src="assets/svg/logo02.svg" />
     </div>
     <div id="logofira">
       <img class="logosvg" src="assets/svg/iconset/Logo.svg" />
   </div>
-      </button>
+  </button>
   </body>
 </html>
