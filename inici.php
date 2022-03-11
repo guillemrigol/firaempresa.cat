@@ -14,9 +14,7 @@
   width:320px;
   height:320px;
   background-color: transparent;
-  transform:translate(-50%, -50%);
-  left:50vw;
-  top:50vh;
+  transform:translate(10%, -50%);
   cursor:pointer;
   transition: all 400ms ease;
 }
@@ -26,9 +24,7 @@
   position:absolute;
   width:400px;
   height:400px;
-  transform:translate(-50%, -50%);
-  left:54.5vw;
-  top:52vh;
+  transform:translate(0%, -50%);
   transition: all 400ms ease;
 }
 
@@ -54,7 +50,6 @@
   </style>
   <body>
     <button id="buttonClicker">
-
     <div id="logolletres">
       <img class="logolletres" src="assets/svg/logo02.svg" />
     </div>
