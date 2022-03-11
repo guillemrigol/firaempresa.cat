@@ -16,6 +16,10 @@
       </div>
       <img class="logo" src="assets/svg/logo02.svg" />
       <input type="button" value="" class="menu" />
-      <div id="barra-menu"></div>
+      <div id="barra-menu">
+        <h1 class="lletra">Inici</h1>
+        <h1 class="lletra">Informació</h1>
+        <h1 class="lletra">Contacte</h1>
+      </div>
     </nav>
   </header>

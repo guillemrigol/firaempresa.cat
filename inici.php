@@ -7,6 +7,9 @@
 
   <style media="screen">
 
+body{
+  background-color: #CACACA
+}
 
 #logofira{
   display:block;
@@ -50,6 +53,7 @@
   cursor:pointer;
   transition: all 400ms ease;
   border: none;
+  outline: hidden;
 }
 
   </style>
