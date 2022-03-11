@@ -59,10 +59,10 @@ body{
 #FadeAnimation{
   display:block;
   position:absolute;
-  width:400px;
-  height:400px;
+  width:600px;
+  height:600px;
   background-color:#CACACA;
-  transform:translate(-190%, -90%);
+  transform:translate(-150%, -90%);
   left:50vw;
   top:50vh;
   cursor:pointer;
