@@ -70,7 +70,7 @@ body{
   border: none;
   outline: hidden;
   opacity: 0;
-  animation:fade 2s ease;
+  animation:fade 2s linear;
 }
 
 @keyframes fade{
@@ -80,7 +80,7 @@ body{
 
   </style>
   <body>
-    <a href="http://localhost/projects/firaempresa.cat/estils.php"><button type="button" id="buttonClicker">
+    <a href="http://localhost/projects/firaempresa.cat/index.php"><button type="button" id="buttonClicker">
     <div id="logolletres">
       <img class="lletres" src="assets/svg/logo02.svg" />
     </div>
