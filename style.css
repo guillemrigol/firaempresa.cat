@@ -12,3 +12,23 @@
   --negre:#000000;
   --taronja:#EF8354;
 }
+
+header, section, footer{
+  display:block;
+  position:relative;
+  width:100%;
+}
+
+header, footer{
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
+
+article{
+  display:block;
+  position:relative;
+  width:80%;
+  margin:25px auto;
+}
