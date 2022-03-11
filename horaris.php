@@ -41,15 +41,8 @@
     <div>29</div>
     <div>30</div>
     <div>31</div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
   </div>
+  <div id="info22"><p>16:00 - 17:00 Presentacions<br/>17:00 - 17:10 Descans</br>17:10 - 17:45 Presentacions</br>17:45 - 18:00 Votacions</p></div>
+  <div id="info29"><p>17:40 - 18:00 Lliurament de premis</p></div>
 </section>
 <?php include("footer.php") ?>

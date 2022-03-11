@@ -2,7 +2,7 @@ section{
   display: block;
   position: relative;
   width:100%;
-  height:400px;
+  height:500px;
   border-bottom:solid 3px var(--negre);
 }
 
@@ -13,7 +13,7 @@ section{
   width:auto;
   height:auto;
   float: right;
-  margin:100px 100px 0px 0px;
+  margin:8% 10% 0px 0px;
   grid-template-columns:repeat(7,34px);
   grid-template-rows:repeat(7,28.57px);
   grid-column-gap:2px;
@@ -97,7 +97,15 @@ section{
   border:solid 1px black;
 }
 
-.calendari div:nth-child(31),.calendari div:nth-child(38){
+.calendari div:nth-child(31){
+  display:flex;
+  position:relative;
+  background-color: var(--taronja);
+  border:solid 1px black;
+  cursor:pointer;
+}
+
+.calendari div:nth-child(38){
   display:flex;
   position:relative;
   background-color: var(--taronja);
@@ -107,8 +115,43 @@ section{
 
 .calendari div:nth-child(31):hover{
   background-color: #F96E32;
+  text-decoration: underline 1px;
 }
 
-.calendari div:nth-child(38):hover{
+.calendari > div:nth-child(38):hover{
   background-color: #F96E32;
+  text-decoration: underline 1px;
+}
+
+div#info22{
+  display:block;
+  position:absolute;
+  width:240px;
+  height:140px;
+  background-color:transparent; /* canvi de color de fons del info29 */
+  transform:translate(-50%, -50%);
+  top:74%;
+  left:76.7%;
+  color:transparent; /* canvi de color de la font */
+  z-index:-1; /* canvi capa del info22 */
+}
+
+div#info29{
+  display:block;
+  position:absolute;
+  width:270px;
+  height:60px;
+  background-color:transparent; /* canvi de color de fons del info29 */
+  transform:translate(-50%, -50%);
+  top:72%;
+  left:76.7%;
+  color:transparent; /* canvi de color de la font */
+}
+
+p{
+  display:flex;
+  position:relative;
+  align-items:flex-start;
+  justify-content:center;
+  padding:0;
 }
