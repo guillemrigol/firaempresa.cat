@@ -14,9 +14,7 @@
   width:320px;
   height:320px;
   background-color: transparent;
-  transform:translate(-50%, -50%);
-  left:50vw;
-  top:50vh;
+  transform:translate(10%, -60%);
   cursor:pointer;
   transition: all 400ms ease;
 }
@@ -26,9 +24,7 @@
   position:absolute;
   width:400px;
   height:400px;
-  transform:translate(-50%, -50%);
-  left:54.5vw;
-  top:52vh;
+  transform:translate(0%, -7%);
   transition: all 400ms ease;
 }
 
@@ -37,12 +33,17 @@
   height:300px;
 }
 
+.lletres{
+  width:350px;
+  height:350px;
+}
+
 #buttonClicker{
   display:block;
   position:absolute;
   width:400px;
   height:400px;
-  background-color: blue;
+  background-color:transparent;
   transform:translate(-50%, -50%);
   left:50vw;
   top:50vh;
@@ -54,9 +55,8 @@
   </style>
   <body>
     <button id="buttonClicker">
-
     <div id="logolletres">
-      <img class="logolletres" src="assets/svg/logo02.svg" />
+      <img class="lletres" src="assets/svg/logo02.svg" />
     </div>
     <div id="logofira">
       <img class="logosvg" src="assets/svg/iconset/Logo.svg" />

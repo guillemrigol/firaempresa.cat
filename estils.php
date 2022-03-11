@@ -55,11 +55,11 @@
   <input id="seis" type="email" />
   <input id="siete" type="password"/>
   <label class="container">
-  <input type="radio" checked="checked" name="radio">
-  <span class="checkmark"></span>.
+  <input type="radio" checked="checked" name="radio" />
+  <span class="checkmark"></span>
 </label>
-<label class="container">.
-  <input type="radio" name="radio">
+<label class="container">
+  <input type="radio" name="radio" />
   <span class="checkmark"></span>
 </label>
 </section>
