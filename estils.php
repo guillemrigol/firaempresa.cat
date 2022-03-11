@@ -1,5 +1,6 @@
 <?php include('header.php') ?>
 <section>
+  <article>
   <h1>Headline1</h1>
   <h2>Headline2</h2>
   <h3>Headline3</h3>
@@ -62,5 +63,6 @@
   <input type="radio" name="radio" />
   <span class="checkmark"></span>
 </label>
+</article>
 </section>
 <?php include('footer.php') ?>

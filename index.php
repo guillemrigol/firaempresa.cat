@@ -1,3 +1,8 @@
 <?php include("header.php") ?>
-<section></section>
+<section>
+  <article>
+    <h1>Benvinguda<h1>
+      <p></p>
+  </article>
+</section>
 <?php include("footer.php") ?>
