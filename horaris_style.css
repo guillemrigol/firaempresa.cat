@@ -97,10 +97,18 @@ section{
   border:solid 1px black;
 }
 
-.calendari div:nth-child(31),
-.calendari div:nth-child(38){
+.calendari div:nth-child(31),.calendari div:nth-child(38){
   display:flex;
   position:relative;
   background-color: var(--taronja);
   border:solid 1px black;
+  cursor:pointer;
+}
+
+.calendari div:nth-child(31):hover{
+  background-color: #F96E32;
+}
+
+.calendari div:nth-child(38):hover{
+  background-color: #F96E32;
 }
