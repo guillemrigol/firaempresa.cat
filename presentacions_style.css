@@ -1,0 +1,16 @@
+.presentacions{
+  width: 90%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.h4-presentacions{
+  margin-top: 30px;
+}
+
+.taula-presentacions{
+  display: block;
+  position: relative;
+  width: 450px;
+  height: 585px;
+}

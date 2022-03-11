@@ -145,6 +145,10 @@ button#tres:hover{
   background-color:  #EF8354;
   color: #000000;
 }
+input{
+  display: block;
+  position: relative;
+}
 input#cinco, input#cinco:focus{
   font-size: 1.4rem;
   height: 40px;
@@ -161,6 +165,22 @@ input#cinco, input#cinco:focus{
 }
 
 input#seis{
+  font-size: 1.4rem;
+  height: 40px;
+  width: 300px;
+  font-family:"Josefin Sans", sans-serif ;
+  color:#EF8354;
+  background-color: white;
+  border-bottom-color: black;
+  border-top: none;
+  border-left: none;
+  border-right:  none;
+  outline:none;
+  margin-bottom: 20px;
+}
+
+
+input#siete{
   font-size: 1.4rem;
   height: 40px;
   width: 300px;
@@ -232,4 +252,5 @@ input#seis{
 	height: 8px;
 	border-radius: 50%;
 	background: white;
+>>>>>>> aa1e0e85c4e5b8da1e54385cf61e836d67dc5537
 }

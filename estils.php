@@ -60,7 +60,7 @@
   <input id="cuatro" type="checkbox"  />
   <input id="cinco" type="text" />
   <input id="seis" type="email" />
-  <input id="siete" type="radio" />
+  <input id="siete" type="password"/>
 
   <label class="container">
   <input type="radio" checked="checked" name="radio">

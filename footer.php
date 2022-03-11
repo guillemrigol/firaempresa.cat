@@ -1,12 +1,12 @@
 <footer>
   <div id="info">
-    <span>ENRIC DELARIS 68</span>
+    <span>ENRIC DELARIS, 68</span>
     <span>08560 MANLLEU</span>
     <span>BARCELONA</span>
     <span>T: 93 850 60 64</span>
   </div>
   <div id="centre">
-    <span><img src="assets/svg/logosalle_w.svg" alt="lasalle" onclick="window.open('https://lasallemanlleu.cat/', '_blank');"/></span>
+    <span><img src="assets/svg/logosalle.svg" alt="lasalle" onclick="window.open('https://lasallemanlleu.cat/', '_blank');"/></span>
     <span></span>
     <span><i class="fa fa-facebook" onclick="window.open('https://www.facebook.com/lasallemanlleu.cat/', '_blank');"></i></span>
     <span><i class="fa fa-instagram" onclick="window.open('https://www.instagram.com/lasallemanlleu/','_blank');"></i></span>
@@ -21,11 +21,8 @@
   <div id="links">
     <a href="https://lasallemanlleu.cat/oferta-formativa/">OFERTA FORMATIVA</a>
     <a href=" https://lasallemanlleu.cat/lescola/">L’ESCOLA</a>
-    <a href="https://lasallemanlleu.cat/alumnes/">ALUMNES</a>
-    <a href=" https://lasallemanlleu.cat/ampa/">AMPA</a>
     <a href=" https://lasallemanlleu.cat/empreses/">EMPRESES</a>
     <a href="https://lasallemanlleu.cat/serveis/">SERVEIS</a>
-    <a href=" https://lasallemanlleu.cat/noticies/">NOTÍCIES</a>
     <a href="https://lasallemanlleu.cat/contacte/">CONTACTES</a>
   </div>
   <svg id="flecha" viewbox="0 0 100 100" onclick="window.open('#capçalera', '_self');">
