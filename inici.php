@@ -53,6 +53,7 @@ body{
   cursor:pointer;
   transition: all 400ms ease;
   border: none;
+  outline: hidden;
 }
 
   </style>

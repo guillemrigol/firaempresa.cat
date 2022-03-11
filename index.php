@@ -1,3 +1,3 @@
 <?php include("header.php") ?>
-<?php include("inici.php") ?>
+<section></section>
 <?php include("footer.php") ?>
