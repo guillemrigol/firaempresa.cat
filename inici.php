@@ -7,6 +7,9 @@
 
   <style media="screen">
 
+body{
+  background-color: #CACACA
+}
 
 #logofira{
   display:block;
