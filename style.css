@@ -13,7 +13,7 @@
   --taronja:#EF8354;
 }
 
-header, section, footer{
+header, section{
   display:block;
   position:relative;
   width:100%;
