@@ -1,4 +1,4 @@
-  nav{
+  header{
     display:block;
     position:relative;
     background-color:var(--clar);
@@ -16,6 +16,7 @@
     left:50%;
     width:400px;
     height:200px;
+    cursor:pointer;
   }
 
   div.right{
@@ -83,25 +84,50 @@
     background-color: #CACACA;
   }
 
-  div#barra-menu{
-    display: absolute;
-    position: relative;
-    width: 500px;
-    height: 0vh;
-    top:-115px;
+/* MENU */
+
+  nav#main{
+    display: flex;
+    position: absolute;
+    flex-direction:column;
+    align-items: center;
+    justify:center;
+    width: 100%;
+    height:calc(100vh - 200px);
+    top:200px;
     left:0px;
     background-color: var(--gris);
     transition: 400ms ease-in-out;
+    z-index:900;
   }
 
-  input.menu:focus ~ div#barra-menu{
-    width: 500px;
-    height: 100vh;
-    z-index: 2;
+  nav#main button{
+    display:block;
+    position:relative;
+    width:auto;
+    height:auto;
+    font-size:4rem;
+    line-height:4rem;
+    padding:0;
+    margin:10px auto;
+    cursor:pointer;
+    background-color:transparent;
+    box-shadow:none;
   }
 
-  h1.lletra{
-    display: block;
-    position: relative;
-    width: 4rem;
-  }
+    nav#main button::before{
+      content:"";
+      display:block;
+      position:absolute;
+      width:0%;
+      height:2px;
+      transform:translate(-50%, 50%);
+      top:60px;
+      left:50%;
+      background-color:#FFF;
+      transition:all 300ms ease;
+    }
+
+    nav#main button:hover::before{
+      width:100%;
+    }

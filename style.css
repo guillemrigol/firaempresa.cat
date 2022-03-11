@@ -19,7 +19,9 @@ header, section{
   width:100%;
 }
 
+
 header, footer{
+  height:200px; important!
   -webkit-user-select:none;
   -moz-user-select:none;
   -ms-user-select:none;
