@@ -4,6 +4,7 @@ section{
   display:block;
   position:relative;
   width:80%;
+  min-height:calc(100vh - 400px);
   margin:0 auto;
 }
 
@@ -198,6 +199,7 @@ input#siete{
 .container {
   display: block;
   position: relative;
+  content:"";
   padding-left: 35px;
   margin-bottom: 12px;
   cursor: pointer;
@@ -216,6 +218,7 @@ input#siete{
 
 .checkmark {
   position: absolute;
+  content:"";
   top: 0;
   left: 0;
   height: 25px;
@@ -252,5 +255,4 @@ input#siete{
 	height: 8px;
 	border-radius: 50%;
 	background: white;
->>>>>>> aa1e0e85c4e5b8da1e54385cf61e836d67dc5537
 }
