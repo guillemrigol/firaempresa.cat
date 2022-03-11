@@ -94,11 +94,12 @@
     justify:center;
     width: 100%;
     height:calc(100vh - 200px);
-    top:200px;
+    top:-100vh;
     left:0px;
     background-color: var(--gris);
     transition: 400ms ease-in-out;
     z-index:900;
+    transition:top 300ms ease-in-out;
   }
 
   nav#main button{

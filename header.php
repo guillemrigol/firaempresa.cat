@@ -22,5 +22,5 @@
       <img class="persona" src="assets/svg/iconset/IconPersona.svg" />
       </div>
       <img class="logo" src="assets/svg/logo02.svg" onclick="window.open('inici.php', '_self')"/>
-      <input type="button" value="" class="menu" />
+      <input type="button" value="" class="menu" onclick="obremenu('manolo');"/>
   </header>
