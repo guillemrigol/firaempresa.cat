@@ -27,7 +27,7 @@
 <p>- Es penalitzarà si es sobrepassa el límit de temps.</p>
 <p>- Com a apunt final, val a dir que no es tindrà en compte el tipus d'empresa ni la   viabilitat, sinó com s'exposen els continguts.</p>
 
-TAULA
+<img class="taula-presentacions" src="assets/img/taula_presentacions.jpg"/>
 
 <p>Les presentacions s’hauran de penjar a Youtube i després caldrà pujar l’enllaç reproduïble a la pàgina web de firaempresa.</p>
 <p><b>No s’acceptarà l’entrega de pendrives amb canvis d’última hora durant l’esdeveniment.</b></p>
