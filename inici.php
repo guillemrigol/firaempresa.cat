@@ -42,7 +42,7 @@
   position:absolute;
   width:400px;
   height:400px;
-  background-color: transparent;
+  background-color: blue;
   transform:translate(-50%, -50%);
   left:50vw;
   top:50vh;
@@ -54,14 +54,13 @@
   </style>
   <body>
     <button id="buttonClicker">
-    </button>
+
     <div id="logolletres">
       <img class="logolletres" src="assets/svg/logo02.svg" />
     </div>
     <div id="logofira">
       <img class="logosvg" src="assets/svg/iconset/Logo.svg" />
   </div>
-<div id="espai">
-</div>
+      </button>
   </body>
 </html>
