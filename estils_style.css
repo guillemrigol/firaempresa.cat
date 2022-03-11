@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Josefin+Sans:wght@200&family=Lora&family=Roboto+Serif:wght@100&family=Rowdies:wght@300;700&display=swap');
 
-section{
-  display:block;
-  position:relative;
-  width:80%;
-  min-height:calc(100vh - 400px);
-  margin:0 auto;
-}
-
 h1{
   font-size:3.4rem;
   font-weight:700;
