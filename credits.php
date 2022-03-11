@@ -1,43 +1,5 @@
 <section>
-  <div>
-    <h1>Header</h1>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-  </div>
-</section>
-
-<section>
-  <div>
-    <h1>Estils</h1>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-  </div>
-</section>
-
-<section>
-  <div>
-    <h1>Footer</h1>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-  </div>
-</section>
-
-<section>
-  <div>
-    <h1>Icones</h1>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-    <h2></h2>
-  </div>
+<div>
+  <p>Aquesta pagina esta feta pels alumnes de grau mitja i grau superior d'informatica de la Salle Manlleu</p>
+</div>
 </section>
