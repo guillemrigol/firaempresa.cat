@@ -1,5 +1,6 @@
 <?php include("header.php") ?>
 <section>
+  <article>
   <div class="calendari">
     <div>MARÇ 2022</div>
     <div>Dl</div>
@@ -44,5 +45,6 @@
   </div>
   <div id="info22"><p>16:00 - 17:00 Presentacions<br/>17:00 - 17:10 Descans</br>17:10 - 17:45 Presentacions</br>17:45 - 18:00 Votacions</p></div>
   <div id="info29"><p>17:40 - 18:00 Lliurament de premis</p></div>
+</article>
 </section>
 <?php include("footer.php") ?>
