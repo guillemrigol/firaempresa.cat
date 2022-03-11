@@ -11,8 +11,8 @@
 #logofira{
   display:block;
   position:absolute;
-  width:400px;
-  height:400px;
+  width:320px;
+  height:320px;
   background-color: transparent;
   transform:translate(-50%, -50%);
   left:50vw;
@@ -33,8 +33,8 @@
 }
 
 .logosvg{
-  width:200px;
-  height:200px;
+  width:300px;
+  height:300px;
 }
 
 #buttonClicker{
