@@ -139,7 +139,7 @@
       position:absolute;
       height:50px;
       width:50px;
-      left:calc(100vw - 45px);
+      left:calc(100vw - 55px);
       top:calc(100% - 50px);
       cursor:pointer;
       outline:none;
