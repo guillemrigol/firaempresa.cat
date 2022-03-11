@@ -56,15 +56,38 @@ body{
   outline: hidden;
 }
 
+#FadeAnimation{
+  display:block;
+  position:absolute;
+  width:600px;
+  height:600px;
+  background-color:#CACACA;
+  transform:translate(-150%, -90%);
+  left:50vw;
+  top:50vh;
+  cursor:pointer;
+  transition: all 400ms ease;
+  border: none;
+  outline: hidden;
+  opacity: 0;
+  animation:fade 2s ease;
+}
+
+@keyframes fade{
+ 0%{opacity: 1;}
+ 50%{opacity: 0.5;}
+ 100%{opacity: 0;}}
+
   </style>
   <body>
-    <button id="buttonClicker">
+    <a href="http://localhost/projects/firaempresa.cat/estils.php"><button type="button" id="buttonClicker">
     <div id="logolletres">
       <img class="lletres" src="assets/svg/logo02.svg" />
     </div>
     <div id="logofira">
       <img class="logosvg" src="assets/svg/iconset/Logo.svg" />
-  </div>
-      </button>
+    </div>
+    <div id="FadeAnimation"> </div>
+  </button>
   </body>
 </html>
