@@ -57,7 +57,7 @@
     cursor: pointer;
   }
 
-  input.menu{
+  input#menu_button{
     display:block;
     position:relative;
     width:50px;
@@ -72,10 +72,6 @@
     transition: 400ms ease-in-out;
   }
 
-  input.menu:focus{
-    background-image:url('assets/svg/iconset/x.svg');
-    z-index: 3;
-  }
 
   div#registre:hover{
     background-color: #F27E4B;
